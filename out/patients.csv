@@ -1,0 +1,2 @@
+id,name,age,gender,weight,height,waist,systolic_bp,diastolic_bp,total_cholesterol,PVD,alcohol_consumption,hypertension,diabetes,hepatitis,family_hepatitis,chronic_fatigue,date_created
+1,Mark,18,male,45,125,36,1,1,170,0,1,0,0,1,0,0,2022-10-09 17:21:15.466503

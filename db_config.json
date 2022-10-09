@@ -1,0 +1,11 @@
+{
+    "conn": "sqlite:///hosp1_base.db",
+    "tables": {
+        "patients": [
+            "id", "name", "age", "gender", "weight", "height", "waist",
+            "systolic_bp", "diastolic_bp", "total_cholesterol", "PVD",
+            "alcohol_consumption", "hypertension", "diabetes", "hepatitis",
+            "family_hepatitis", "chronic_fatigue", "date_created", "BMI"
+        ]
+    }
+}
